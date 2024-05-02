@@ -1,0 +1,32 @@
+Normas abnt
+
+
+Referencias bibliográficas: mostrar na prática como devem estar as referências, de livros, de sites
+
+
+Referências de Livros:
+Livro com um autor:
+Sobrenome, Nome do Autor. Título do Livro. Edição (se houver). Cidade da Publicação: Editora, Ano de Publicação.
+
+Exemplo:
+Smith, John. A History of Modern Psychology. 6ª ed. Boston: Pearson, 2014.
+
+Livro com mais de um autor:
+Sobrenome, Nome do Autor; Sobrenome, Nome do Autor. Título do Livro. Edição (se houver). Cidade da Publicação: Editora, Ano de Publicação.
+
+Exemplo:
+Johnson, Michael; Smith, Emily. Introduction to Sociology. 8ª ed. New York: Harper Collins, 2019.
+
+Referências de Sites:
+Site com autor conhecido:
+Sobrenome, Nome do Autor. Título da Página ou Artigo. Nome do Site, Data de Publicação (se disponível). Disponível em: URL. Acesso em: Data de Acesso.
+
+Exemplo:
+Silva, João. A Importância da Reciclagem. Sustentabilidade Brasil, 10 de março de 2023. Disponível em: http://www.sustentabilidadebrasil.com/importancia-reciclagem/. Acesso em: 1 de maio de 2024.
+
+Site sem autor conhecido:
+Título da Página ou Artigo. Nome do Site, Data de Publicação (se disponível). Disponível em: URL. Acesso em: Data de Acesso.
+
+Exemplo:
+Efeitos das Mudanças Climáticas na Agricultura. Agência de Notícias Ambientais, 2022. Disponível em: http://www.agenciaambiental.com/mudancas-climaticas-agricultura/. Acesso em: 28 de abril de 2024.
+
