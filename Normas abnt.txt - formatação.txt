@@ -1,0 +1,36 @@
+Normas abnt
+
+Formatação: falar sobre tamanho de fontes, espaçamento entre linhas, margens, tipos de fonte etc
+
+Tamanho de Fontes:
+
+Para o corpo do texto, a ABNT geralmente recomenda o uso de fonte tamanho 12. Isso inclui o texto principal, exceto para citações longas, notas de rodapé, legendas de tabelas/figuras e referências bibliográficas.
+
+As exceções mais comuns são:
+
+Citações longas:Fonte tamanho 10 e recuo de 4 cm da margem esquerda, sem aspas.
+
+Notas de rodapé:Fonte tamanho 10.
+
+Legendas de tabelas e figuras:Fonte tamanho 10.
+
+Referências bibliográficas:Fonte tamanho 12.
+
+Espaçamento entre Linhas:A ABNT geralmente recomenda espaçamento de 1,5 entre as linhas do texto, incluindo o corpo do texto principal, citações longas, notas de rodapé e referências bibliográficas.
+
+
+
+Margens:
+
+As margens devem seguir as seguintes especificações:
+
+Margem superior: 3 cm.
+Margem inferior: 2 cm.
+Margem esquerda: 3 cm.
+Margem direita: 2 cm.
+
+Essas margens são importantes para garantir uma apresentação visual adequada do texto e permitir a inclusão de comentários, correções ou anotações nas margens durante a revisão do documento.
+
+Tipos de Fonte:
+
+A ABNT não especifica um tipo de fonte específico, mas é comum utilizar fontes serifadas como Times New Roman, Arial ou Calibri. A escolha da fonte pode variar de acordo com as preferências da instituição, desde que a fonte seja legível e profissional. É importante manter a consistência na escolha da fonte ao longo do documento para garantir a coesão visual.
