@@ -1,0 +1,32 @@
+Normas Abnt
+
+Citações: citações são trechos de outros autores no seu texto, explique e de exemplos
+
+
+
+Citações são trechos de textos de outros autores que são incorporados ao seu próprio texto para fundamentar argumentos, fornecer evidências, dar suporte a uma ideia ou ilustrar um ponto específico. Elas são uma parte essencial da escrita acadêmica e técnica, pois ajudam a enriquecer o conteúdo e a demonstrar o embasamento teórico e a pesquisa realizada.
+
+Existem dois tipos principais de citações: citações diretas e citações indiretas.
+
+
+Citações Diretas:
+As citações diretas reproduzem exatamente as palavras do autor original e devem ser indicadas por aspas ou por um formato de destaque, como recuo de parágrafo. Elas podem ser curtas (até três linhas) ou longas (mais de três linhas).
+
+Exemplo de Citação Direta Curta (com até três linhas):
+Segundo Smith (2010), "a revolução industrial teve um impacto significativo na sociedade europeia".
+
+Citações Indiretas:
+As citações indiretas parafraseiam as ideias do autor original com suas próprias palavras. Elas não reproduzem o texto exato, mas sintetizam o conteúdo mantendo o significado original.
+
+Exemplo de Citação Indireta:
+Brown (2015) argumenta que a mudança climática é uma das maiores ameaças enfrentadas pela humanidade atualmente, impactando diversos aspectos da vida no planeta.
+
+
+Referenciando Citações:
+Todas as citações devem ser acompanhadas de referências bibliográficas completas que permitam a identificação da fonte original. No final do texto, uma lista de referências deve ser fornecida, listando todas as fontes utilizadas no trabalho.
+
+Exemplo de Referência Bibliográfica para um Livro:
+Smith, John. A History of Modern Psychology. 6ª ed. Boston: Pearson, 2014.
+
+Exemplo de Referência Bibliográfica para um Artigo de Jornal:
+Johnson, Michael. "The Impact of Technology on Education". The New York Times, 20 de julho de 2020.
